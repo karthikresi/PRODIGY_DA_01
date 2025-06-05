@@ -1,6 +1,8 @@
 # PRODIGY_DA_01
 
 📘 Prodigy Infotech Internship – Generative AI Task 1
+
+
 🧠 Task Title: Fine-Tuning GPT-2 for Text Generation
 
 This repository contains the implementation of Task 1 from the Generative AI internship at Prodigy Infotech. The objective of this task was to fine-tune the GPT-2 model to generate contextually relevant and coherent text based on a small custom dataset.
