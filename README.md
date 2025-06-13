@@ -1,4 +1,4 @@
-# PRODIGY_DA_01
+# PRODIGY_GA_01
 
 📘 Prodigy Infotech Internship – Generative AI Task 1
 
